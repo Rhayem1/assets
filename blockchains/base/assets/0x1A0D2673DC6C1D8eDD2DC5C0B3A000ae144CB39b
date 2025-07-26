@@ -1,0 +1,8 @@
+{
+  "name": "Rhayem Token",
+  "symbol": "RHA",
+  "address": "0x1A0D2673DC6C1D8eDD2DC5C0B3A000ae144CB39b",
+  "chainId": 8453,
+  "decimals": 18,
+  "logoURI": "https://link.to/your/logo.png"
+}
